@@ -8,6 +8,6 @@
 
 ## Timeline
 
-- == 2021-01-16 ===============================================================
-  - started this repository
-  - created Nextjs project from template
+#### == 2021-01-16 ========================================
+- started this repository
+- created Nextjs project from template
